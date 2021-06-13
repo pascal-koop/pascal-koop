@@ -1,3 +1,3 @@
-[![Pascale-Cheddar's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
+![Pascale-Cheddar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pascale-Cheddar&show_icons=true&theme=gruvbox)
 

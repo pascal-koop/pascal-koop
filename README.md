@@ -70,10 +70,11 @@
 
 
 ## Github Stats  
-<div align="center"><img src=("https://github-readme-stats.vercel.app/api?username=Pascale-Cheddar&show_icons=true&count_private=true&hide_border=true&theme=tokyonight)
-" align="center" /></div>  
+<div align="center"> ![Pascale's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pascale-Cheddar&theme=dark&show_icons=true)
+ align="center" /></div>  
 
-<br/>  
+<br/>  ![Pascale's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pascale-Cheddar&theme=dark&show_icons=true)
+
 
 
 ## Recent Blog Posts  

@@ -1,7 +1,8 @@
 
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" height="" width="600" />
-</div>  
+
+
+![image](https://user-images.githubusercontent.com/79517800/121868778-ab727b00-cd01-11eb-9b7e-4b569fbb7373.png)
+
   
 
 ### <div align="center">I'm Pascale, a self taught Frontend Developer from Hamburg, Germany</div>  

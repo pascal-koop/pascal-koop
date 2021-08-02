@@ -71,7 +71,7 @@
 
 
 ## Github Stats  
- ![Pascale's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pascale-Cheddar&theme=dark&show_icons=true)
+ <div align="center">![Pascale's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pascale-Cheddar&theme=dark&show_icons=true) </div>
   
 
 <br/>  

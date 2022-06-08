@@ -8,7 +8,7 @@
 ### <div align="center">I'm Pascale, a self taught Frontend Developer from Hamburg, Germany</div>  
   
 
-- 🔭 I’m currently looking for a intership or entry level job.  
+- 🔭 I’m currently looking for a intership.  
   
 
 - 🌱 I’m currently learning  JavaScript and UI Design  

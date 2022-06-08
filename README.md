@@ -11,7 +11,7 @@
 - 🔭 I’m currently looking for a intership.  
   
 
-- 🌱 I’m currently learning  JavaScript and UI Design  
+- 🌱 I’m currently learning  JavaScript and PHP
   
 
 - ❓ Ask me about anything I try to help and feel free to contribute with tips for me   

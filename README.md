@@ -35,17 +35,17 @@
 ---
 
 # I'm currently learning  
-   Ruby on Rails 
-   How to make LoFi Music 
-   Minimalism 
-   Any kind of frontend stuff 
+  - Ruby on Rails 
+  - How to make LoFi Music 
+  - Minimalism 
+  - Any kind of frontend stuff 
 
 # What I love to do
-  Meditating 
-  My side hustle as a Bartender
-  Nature 
-  To juggle
-  Take care of my plants
+ - Meditating 
+ - My side hustle as a Bartender
+ - Nature 
+ - To juggle
+ - Take care of my plants
 
 ---
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ybm7ciobc1zriw7wua8sbbv7p&cover_image=true&theme=default&show_offline=false&bar_color=66db9f)](https://spotify-github-profile.vercel.app/api/view?uid=ybm7ciobc1zriw7wua8sbbv7p&redirect=true)

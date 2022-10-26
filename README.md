@@ -51,6 +51,7 @@
  - My side hustle as a Bartender
  - Nature 
  - To juggle
+ - philosophizing
  - Take care of my plants
 
 ---

@@ -5,7 +5,7 @@
 </div>
 <div align="center" class="gif">
 
-  <img align="center" src="https://media.giphy.com/media/3o7TKuAfCHifvPdcxG/giphy.gif">
+  <img align="center" src="https://media.giphy.com/media/3o7TKuAfCHifvPdcxG/giphy.gif" width="400px">
 
 </div>
 
@@ -23,19 +23,27 @@
 ![Adobe Photoshop](https://img.shields.io/static/v1?style=for-the-badge&message=Adobe+Photoshop&color=31A8FF&logo=Adobe+Photoshop&logoColor=FFFFFF&label=)
 ![Material Design](https://img.shields.io/static/v1?style=for-the-badge&message=Material+Design&color=757575&logo=Material+Design&logoColor=FFFFFF&label=)
 
-<div align="center">
+---
 
 # 🔥 Stats:
+<div align="center">
+
+
 ![](https://github-readme-stats.vercel.app/api?username=Pascale-Cheddar&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pascale-Cheddar&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 # 💩 Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+  
+</div>
 
 ---
 
+<div align="center">
+
 [![](https://visitcount.itsvg.in/api?id=Pascale-Cheddar&icon=5&color=0)](https://visitcount.itsvg.in)
+  
 </div>
 
 ---

@@ -1,5 +1,5 @@
 <div id="header">
-<img src="">
+<img src="https://github.com/Pascale-Cheddar/Pascale-Cheddar/blob/main/github-header-image.png">
 </div>
 
 # 💻 Stack:

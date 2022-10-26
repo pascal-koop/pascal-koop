@@ -2,7 +2,7 @@
 <img src="https://github.com/Pascale-Cheddar/Pascale-Cheddar/blob/main/github-header-image%20(1).png">
   
 </div>
-<div class="gif">
+<div align="center" class="gif">
   <img align="center" src="https://media.giphy.com/media/3o7TKuAfCHifvPdcxG/giphy.gif">
 </div>
 

@@ -3,6 +3,8 @@
   <img align="center" src="https://media.giphy.com/media/3o7TKuAfCHifvPdcxG/giphy.gif">
 </div>
 
+#[Visit my portfolio page](https://www.pascal-koop.dev "pascal porfolio page")
+
 # Stack:
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=)

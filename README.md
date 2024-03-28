@@ -4,7 +4,7 @@
 </div>
 
 
-# [Visit my portfolio page](https://www.pascal-koop.dev "pascal porfolio page")
+# [More about me](https://www.pascal-koop.dev "pascal porfolio page")
 
 # Stack:
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)

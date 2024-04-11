@@ -3,9 +3,6 @@
   <img align="center" src="https://media.giphy.com/media/3o7TKuAfCHifvPdcxG/giphy.gif">
 </div>
 
-
-# [More about me](https://www.pascal-koop.dev "pascal porfolio page")
-
 # Stack:
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=)
@@ -31,15 +28,15 @@
 [![](https://visitcount.itsvg.in/api?id=pascal-koop&icon=5&color=0)](https://visitcount.itsvg.in)
 
 ---
+# [Take a look at my porfolio page](https://www.pascal-koop.dev "pascal porfolio page")
 
 # I'm currently learning
-  - How to make LoFi Music 
-  - Minimalism 
-  - Firebase 
+  -  build a todo web app with nuxt and firebase 
+  
 
 # What I love to do
  - Meditating 
- - My side hustle as a Bartender
+ - Hitting the gym
  - Nature 
  - To juggle
  - Take care of my plants

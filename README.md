@@ -3,7 +3,7 @@
   <img align="center" src="https://media.giphy.com/media/3o7TKuAfCHifvPdcxG/giphy.gif">
 </div>
 
-### 👋 Hi I'm Pascal a passionate Front-End Developer looking currently for a Job 
+
 ### ❤️ You know I love to go to the gym and learn Calisthenics skills and Pizza is my go to junk food. (could eat it every day) 
 ### 🫱🏾‍🫲🏿 I’m looking to collaborate ... on any kind of frontend stuff 
 ### Reach to me on Discord -  pasquale2.0

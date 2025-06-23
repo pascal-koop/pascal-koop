@@ -34,7 +34,6 @@
 ## [Take a look at my porfolio page](https://www.pascal-koop.dev "pascal porfolio page")
 ---
 
-# I'm currently listen to: 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ybm7ciobc1zriw7wua8sbbv7p&cover_image=true&theme=default&show_offline=false&bar_color=66db9f)](https://spotify-github-profile.vercel.app/api/view?uid=ybm7ciobc1zriw7wua8sbbv7p&redirect=true)
+
 
 

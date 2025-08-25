@@ -5,8 +5,8 @@
 
 
 ### ❤️ You know I love to go to the gym and learn Calisthenics skills and Pizza is my go to junk food. (could eat it every day) 
-### 🫱🏾‍🫲🏿 I’m looking to collaborate ... on any kind of frontend stuff 
-### Reach to me on Discord -  pasquale2.0
+### 🫱🏾‍🫲🏿 I’m a passionate web developer who loves this craft  
+## [Check my portfolio page out](https://www.pascal-koop.dev "pascal porfolio page")
 
 # Stack:
 ![HTML5](https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=)
@@ -31,7 +31,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=pascal-koop&icon=5&color=0)](https://visitcount.itsvg.in)
 ---
-## [Take a look at my porfolio page](https://www.pascal-koop.dev "pascal porfolio page")
+
 ---
 
 

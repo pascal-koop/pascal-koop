@@ -6,7 +6,7 @@
 
 ### ❤️ You know I love to go to the gym and learn Calisthenics skills and Pizza is my go to junk food. (could eat it every day) 
 ### 🫱🏾‍🫲🏿 I’m a passionate web developer who loves this craft
-### Currently learning to build a fullstack app and software archtecture specificaly frontend archtecture fundamentals 
+### Currently learning to build a fullstack app and software architecture specificaly frontend architecture fundamentals 
 ## [Check my portfolio page out](https://www.pascal-koop.dev "pascal porfolio page")
 
 # Stack:

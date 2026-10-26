@@ -4,8 +4,8 @@
 </div>
 
 
-### ❤️ You know I love to do Calisthenics, Pizza is my go to junk food and a big passion for craftsmanship. 
-### 🫱🏾‍🫲🏿 Currently seeking a Job
+### ❤️ I love to do Calisthenics, Pizza is my go to junk food and a big passion for craftsmanship. 
+
 
 ## [Check my portfolio page out](https://www.pascale-koop.dev "pascal porfolio page")
 

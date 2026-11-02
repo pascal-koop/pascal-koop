@@ -7,7 +7,7 @@
 ### ❤️ I love to do Calisthenics, Pizza is my go to junk food and a big passion for craftsmanship. 
 
 
-## [Check my portfolio page out](https://www.pascale-koop.dev "pascal porfolio page")
+
 
 # Stack:
 ![HTML5](https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=)
